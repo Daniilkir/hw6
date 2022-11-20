@@ -1,0 +1,6 @@
+a[href^="http"]{
+background-color: red;
+}
+p:first-of-type{
+font-size: 24px;
+}
