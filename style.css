@@ -1,3 +1,9 @@
+a[href^="http"]{
+background-color: red;
+}
+p:first-of-type{
+font-size: 24px;
+}
 h3:first-of-type{
     color: pink;
 }
